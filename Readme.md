@@ -9,7 +9,7 @@
   * Filtration of the offers
   * Add photo from the form
   * Validation form with "Pristine" library
-  * Add map, pins and popups with offers with "Leaflet" Leaflet
+  * Add map, pins and popups with offers with "Leaflet" library
   * Debouncing
 
 ## Used technologies:
@@ -20,9 +20,9 @@
   * Fetch API
   * async / await
   * ES6 modules
-  * Pristine Leaflet
-  * noUiSlider Leaflet
-  * Leaflet Leaflet
+  * Pristine library
+  * noUiSlider library
+  * Leaflet library
   * Debounce
 
 [LINK TO THE PROJECT](https://alina1859.github.io/Keksobooking/index.html)
