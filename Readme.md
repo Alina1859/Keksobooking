@@ -5,7 +5,7 @@
 ## What is implemented in the project:
 
   * Get data from the server / Send data from the form to the server
-  * Rendering offers whith data on the page
+  * Rendering offers with data on the page
   * Filtration of the offers
   * Add photo from the form
   * Validation form with "Pristine" library
